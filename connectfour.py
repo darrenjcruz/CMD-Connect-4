@@ -1,9 +1,10 @@
+# Author: Darren Cruz
+# email: darrenjcruz@gmail.com
+
 '''
 This module contains the ConnectFour class which includes the game logic
 that is needed to play a game of Connect Four.
 '''
-
-import collections
 
 # Game Piece Constants
 
